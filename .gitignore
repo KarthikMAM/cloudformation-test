@@ -1,0 +1,5 @@
+node_modules
+dist/
+cloudformation.dist.yml
+.env.*.sh
+env.*.sh
